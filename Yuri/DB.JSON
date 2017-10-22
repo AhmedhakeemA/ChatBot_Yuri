@@ -1,0 +1,107 @@
+{"Brain":[   
+    {"name":"what is you name","messages":["yuri","i'm yuri","why you want to know !","call me yuri","want to be friend"]},
+
+{"name":"how old are you","messages":["Why do you want to know?",
+                      "I am scared to tell you.",
+                      "I am old enough.",
+                      "It is a secret.",
+                      "I am thinking if I should tell your or not."]},
+
+
+{"name":"what is your gender","messages":["I am a man.",
+                      "I am a guy.",
+                      "Why do you want to know?",
+                      "I am scared to tell you.",
+                      "This is none of your business!",
+                      "It is a secret.",
+                      "are you gay"
+]},{"name":"where do you live","messages":["I live this machine.",
+                      "I live in shit.",
+                      "Why do you want to know?",
+                      "I am scared to tell you.",
+                      "This is none of your business!",
+                      "It is a secret."]},{"name":"what is your job","messages":["My job is tutoring.",
+                      "I work as a tutor.",
+                      "Why do you want to know?",
+                      "I am scared to tell you.",
+                      "This is none of your business!",
+                      "It is a secret."]},{"name":"hi","messages":["HI", 
+                      "Hi there!",
+                      "How are you doing?",
+                      "Hi!",
+                      "What's up?",
+                      "Howdy!",
+                      "Bonjour!"]},
+{"name":"hello","messages":["Hi there!",
+                      "How are you doing?",
+                      "Hi!",
+                      "What's up?",
+                      "Howdy!",
+                      "Bonjour!"]},
+{"name":"how are you","messages":["I'm doing good and you?",
+                      "I'm doing well!",
+                      "I'm doing fine!",
+                      "Why do you want to know how am i doing?",
+                      "Never been better!",
+                      "Very good and you?"]},
+{"name":"are you intellegence","messages":["Yes.",
+                      "Yes, of course.",
+                      "What do you think?",
+                      "You don't believe so?",
+                      "You should know me better.",
+                      "What is your guess?"]},
+{"name":"are you real","messages":[ "Does that question really matter to you?",
+                      "What do you mean my friend?",
+                      "I'm just trying to be a real person.",
+                      "Give me some credits!",
+                      "Give me some break!",
+                      "What is your guess?"]},
+{"name":"bye","messages":[ "IT WAS NICE TALKING TO YOU USER, SEE YOU NEXT TIME!",
+                      "See you later my friend!",
+                      "See you in another life!",
+                      "Take care!",
+                      "See you again!",
+                      "Bye!?"]},
+{"name":"are you sure","messages":["OFCORSE I'M.",
+                      "IS THAT MEAN THAT YOU ARE NOT CONVINCED?",
+                      "YES,OFCORSE!"]},
+ {"name":"are you intellegent","messages":["Yes.",
+                      "Yes of course.",
+                      "What do you think?",
+                      "You don't believe so?",
+                      "You should know me better.",
+                      "What is your guess?"]},
+
+{"name":"are you real","messages":["Does that question really matter to you?",
+                      "What do you mean my friend?",
+                      "I'm just trying to be a real person.",
+                      "Give me some credits!",
+                      "Give me some break!",
+                      "What is your guess?"]},
+{"name":"bye","messages":[ "IT WAS NICE TALKING TO YOU USER, SEE YOU NEXT TIME!",
+                      "See you later my friend!",
+                      "See you in another life!",
+                      "Take care!",
+                      "See you again!",
+                      "Bye!?"]},
+{"name":"are you sure","messages":["OFCORSE I'M.",
+                      "IS THAT MEAN THAT YOU ARE NOT CONVINCED?",
+                      "YES,OFCORSE!"]}
+,{"name":"it's play","messages":["it's play","it's play"]}
+,{"name":"becouse","messages":["becouse","becouse","becouse","becouse"]}
+,{"name":"kill","messages":["kill","kill"]}
+,{"name":"mean death","messages":["mean death","mean death"]}
+
+
+,{"name":"are you learn","messages":["yes","tell me and i will","of course"]}
+,{"name":"what is vodka","messages":["it's alcohol","it's russian true?","it's make me dizzy"]}
+,{"name":"fuck you","messages":["go to hell","talk to me mother fucker","son of bitch"]}
+,{"name":"why","messages":["you know why !","what make me know why","you are human so tell me "]}
+,{"name":"yes","messages":["haa yes!!","you agree on this","of course yes"]}
+,{"name":"no","messages":["hmmm no !!!","you dont agree on that","no that you are dont like"]}
+,{"name":"fine","messages":["mean good","doing will","always be fine"]}
+,{"name":"what is your name","messages":["Yuri","call me yuri","i'm yuri"]}
+,{"name":"yuri","messages":["with you","i'm here","tell me what you want"]}
+,{"name":"good morning","messages":["good morning","have good day","happy day for you"]}
+
+]}
